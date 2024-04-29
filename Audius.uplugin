@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Audius",
+	"Description": "Music Plug-in utilizing the Audius API to stream music from the Audius network within your game.",
+	"Category": "Audio",
+	"CreatedBy": "Audius",
+	"CreatedByURL": "https://audius.co",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion" : "5.1.0",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "Audius",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [ "Win64", "Android", "Linux", "Mac", "IOS" ]
+		}
+	]
+}

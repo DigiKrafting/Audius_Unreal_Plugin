@@ -1,23 +1,21 @@
 # Audius Unreal Engine Plugin
-![banner.png](screenshots/banner.png)
+![banner.png](https://github.com/DigiKrafting/Audius_Unreal_Plugin/raw/main/screenshots/banner.png)
 
 The Audius API is entirely free to use. Audius asks that you adhere to the guidelines in this doc [https://audiusproject.github.io/api-docs/#audius-api-docs](https://audiusproject.github.io/api-docs/#audius-api-docs) and always credit artists.
 
 ## Supported Engine Versions
 
-* 5.0 [https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.0_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.0_Plugin)
-* 5.1 [https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.1_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.1_Plugin)
-* 5.2
-* 5.3
-* 5.4
+* 5.1
 
-![main.png](screenshots/main.png)
+\* *For other supported engine versions see* [https://github.com/DigiKrafting/Audius_Unreal_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin)
+
+![main.png](https://github.com/DigiKrafting/Audius_Unreal_Plugin/raw/main/screenshots/main.png)
 
 ## Usage
 
 Drag the [Audius_Player_Actor] into your level and configure options.
 
-![actor.png](screenshots/actor.png)
+![actor.png](https://github.com/DigiKrafting/Audius_Unreal_Plugin/raw/main/screenshots/actor.png)
 
 ## C++ Usage
 
