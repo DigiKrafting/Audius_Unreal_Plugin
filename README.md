@@ -12,9 +12,19 @@ The Audius API is entirely free to use. Audius asks that you adhere to the guide
 	
 * 5.1 
 
+	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.1_Audius_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.1_Audius_Plugin)\
+
 * 5.2
+
+	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.2_Audius_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.2_Audius_Plugin)\
+
 * 5.3
+
+	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.3_Audius_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.3_Audius_Plugin)\
+
 * 5.4
+
+	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.4_Audius_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.4_Audius_Plugin)\
 
 ![main.png](screenshots/main.png)
 
