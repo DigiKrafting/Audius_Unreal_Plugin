@@ -5,8 +5,8 @@ The Audius API is entirely free to use. Audius asks that you adhere to the guide
 
 ## Supported Engine Versions
 
-* 5.0 [https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.0_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.0_Plugin)
-* 5.1 [https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.1_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.1_Plugin)
+* 5.0
+* 5.1
 * 5.2
 * 5.3
 * 5.4
