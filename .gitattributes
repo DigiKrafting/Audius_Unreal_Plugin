@@ -1,6 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-# Ignore files for release
-.git*               export-ignore
-/LICENSE            export-ignore
-/README.md          export-ignore
