@@ -1,4 +1,10 @@
-// Some copyright should be here...
+/*
+
+Copyright 2024 Audius
+
+License: https://www.unrealengine.com/en-US/eula/content
+
+*/
 
 using UnrealBuildTool;
 
