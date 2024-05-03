@@ -9,7 +9,7 @@
 	"CreatedByURL": "https://audius.co",
 	"DocsURL": "https://github.com/DigiKrafting/Audius_Unreal_Plugin",
 	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/379d421d179148cca3a09dcd7a9049e0",
-	"SupportURL": "https://github.com/DigiKrafting/Audius_Unreal_Plugin",
+	"SupportURL": "https://github.com/DigiKrafting/Audius_Unreal_Plugin/issues",
 	"EngineVersion" : "5.0.0",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
