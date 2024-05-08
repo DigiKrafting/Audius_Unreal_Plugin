@@ -15,4 +15,8 @@ This is just the First Person template project (blueprint version) with the Audi
 
 ## Usage
 
+Unzip and open "Audius_Demo.uproject"
+
+## More Info
+
 [https://github.com/DigiKrafting/Audius_Unreal_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin)
