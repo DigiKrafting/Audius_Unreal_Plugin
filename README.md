@@ -5,6 +5,20 @@ The Audius API is entirely free to use. Audius asks that you adhere to the guide
 
 ## Supported Engine Versions
 
+5.0, 5.1, 5.2, 5.3, 5.4
+
+## Install via the Unreal Marketplace
+
+[https://www.unrealengine.com/marketplace/en-US/product/audius-music](https://www.unrealengine.com/marketplace/en-US/product/audius-music) ** 5.2, 5.3, 5.4
+
+## Install via github
+
+1. Download "Audius.zip" for your Unreal Engine version from https://github.com/DigiKrafting/Audius_Unreal_Plugin/releases
+2. Unzip and copy the "Audius" folder to your project's "Plugins" folder, if you don't have one create one.
+3. Add to plugins via the Unreal Editor Menu [Edit->Plugins]
+
+## Source Downloads
+
 * 5.0
   
 	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.0_Audius_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.0_Audius_Plugin)\
@@ -71,4 +85,9 @@ if (Audius_Actor_Base != nullptr) {
 }
 ```
 
+## Troubleshooting
+
+Be sure to set the editor's volume as shown in the screenshot below
+
+![editor_volume.png](screenshots/editor_volume.png)
 
