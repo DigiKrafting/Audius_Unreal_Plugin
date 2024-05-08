@@ -11,18 +11,29 @@ The Audius API is entirely free to use. Audius asks that you adhere to the guide
 
 [https://www.unrealengine.com/marketplace/en-US/product/audius-music](https://www.unrealengine.com/marketplace/en-US/product/audius-music) ** 5.2, 5.3, 5.4
 
-## Install via github
+## Manual Install 
 
 1. Download "Audius.zip" for your Unreal Engine version from https://github.com/DigiKrafting/Audius_Unreal_Plugin/releases
 2. Unzip and copy the "Audius" folder to your project's "Plugins" folder, if you don't have one create one.
 3. Add to plugins via the Unreal Editor Menu [Edit->Plugins]
 
+## Marketplace Version Demos
+	
+	The demos are just the First Person template with the [Audius Plugin] enabled and the [Audius_Player_Actor] in the level.
+
+	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.2_demo.zip](https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.2_demo.zip)
+	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.3_demo.zip](https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.3_demo.zip)
+	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.4_demo.zip](https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.4_demo.zip)
+
 ## Source Downloads
+
+[https://github.com/DigiKrafting/Audius_Unreal_Plugin/releases](https://github.com/DigiKrafting/Audius_Unreal_Plugin/releases)
+
+## Branches
 
 * 5.0
   
 	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.0_Audius_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.0_Audius_Plugin)\
-	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.0_Audius_Demo](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.0_Audius_Demo)
 	
 * 5.1 
 
@@ -44,7 +55,8 @@ The Audius API is entirely free to use. Audius asks that you adhere to the guide
 
 ## Usage
 
-Drag the [Audius_Player_Actor] into your level and configure options.
+1. Enable the plugin in the Unreal Editor via [Edit->Plugins]
+2. Drag the [Audius_Player_Actor] into your level and configure options.
 
 ![actor.png](screenshots/actor.png)
 
