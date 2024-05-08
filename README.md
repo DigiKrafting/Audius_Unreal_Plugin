@@ -13,17 +13,17 @@ The Audius API is entirely free to use. Audius asks that you adhere to the guide
 
 ## Manual Install 
 
-1. Download "Audius.zip" for your Unreal Engine version from https://github.com/DigiKrafting/Audius_Unreal_Plugin/releases
+1. Download "Audius.zip" for your Unreal Engine version from [https://github.com/DigiKrafting/Audius_Unreal_Plugin/releases](https://github.com/DigiKrafting/Audius_Unreal_Plugin/releases)
 2. Unzip and copy the "Audius" folder to your project's "Plugins" folder, if you don't have one create one.
 3. Add to plugins via the Unreal Editor Menu [Edit->Plugins]
 
 ## Marketplace Version Demos
 	
-	The demos are just the First Person template with the [Audius Plugin] enabled and the [Audius_Player_Actor] in the level.
+The demos are just the First Person template with the [Audius Plugin] enabled and the [Audius_Player_Actor] in the level.
 
-	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.2_demo.zip](https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.2_demo.zip)
-	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.3_demo.zip](https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.3_demo.zip)
-	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.4_demo.zip](https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.4_demo.zip)
+[https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.2_demo.zip](https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.2_demo.zip)
+[https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.3_demo.zip](https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.3_demo.zip)
+[https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.4_demo.zip](https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.4_demo.zip)
 
 ## Source Downloads
 
