@@ -25,32 +25,6 @@ The demos are just the First Person template with the [Audius Plugin] enabled an
 [https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.3_demo.zip](https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.3_demo.zip)\
 [https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.4_demo.zip](https://github.com/DigiKrafting/Audius_Unreal_Plugin/archive/refs/tags/ue5.4_demo.zip)
 
-## Source Downloads
-
-[https://github.com/DigiKrafting/Audius_Unreal_Plugin/releases](https://github.com/DigiKrafting/Audius_Unreal_Plugin/releases)
-
-## Branches
-
-* 5.0
-  
-	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.0_Audius_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.0_Audius_Plugin)
-	
-* 5.1 
-
-	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.1_Audius_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.1_Audius_Plugin)
-
-* 5.2
-
-	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.2_Audius_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.2_Audius_Plugin)
-
-* 5.3
-
-	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.3_Audius_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.3_Audius_Plugin)
-
-* 5.4
-
-	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.4_Audius_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.4_Audius_Plugin)
-
 ![main.png](screenshots/main.png)
 
 ## Usage
@@ -96,6 +70,32 @@ if (Audius_Actor_Base != nullptr) {
 	
 }
 ```
+
+## Source Downloads
+
+[https://github.com/DigiKrafting/Audius_Unreal_Plugin/releases](https://github.com/DigiKrafting/Audius_Unreal_Plugin/releases)
+
+## Branches
+
+* 5.0
+  
+	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.0_Audius_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.0_Audius_Plugin)
+	
+* 5.1 
+
+	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.1_Audius_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.1_Audius_Plugin)
+
+* 5.2
+
+	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.2_Audius_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.2_Audius_Plugin)
+
+* 5.3
+
+	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.3_Audius_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.3_Audius_Plugin)
+
+* 5.4
+
+	[https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.4_Audius_Plugin](https://github.com/DigiKrafting/Audius_Unreal_Plugin/tree/5.4_Audius_Plugin)
 
 ## Troubleshooting
 
